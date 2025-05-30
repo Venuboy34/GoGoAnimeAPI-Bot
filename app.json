@@ -12,11 +12,11 @@
     "repository": "https://github.com/Red-Aura/Anime_Downloader_Probot",
     "env": {
       "API_ID": {
-        "description": "Api Hash Here",
+        "description": "24620215",
         "value": ""
       },
       "API_HASH": {
-        "description": "Api Id Here",
+        "description": "b6781cce52e272e11dabc88cd31c566c",
         "value": ""
       },
       "TOKEN": {
